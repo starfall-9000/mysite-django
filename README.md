@@ -29,3 +29,7 @@
 * watch sql create polls model:
 
 `python manage.py sqlmigrate polls 0001`
+
+* start dev shell:
+
+`python manage.py shell`
