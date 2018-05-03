@@ -17,3 +17,15 @@
 * add polls app:
 
 `python manage.py startapp polls`
+
+* make change with the database from polls model:
+
+`python manage.py makemigrations polls`
+
+* apply change db:
+
+`python manage.py migrate`
+
+* watch sql create polls model:
+
+`python manage.py sqlmigrate polls 0001`
