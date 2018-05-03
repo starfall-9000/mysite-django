@@ -33,3 +33,7 @@
 * start dev shell:
 
 `python manage.py shell`
+
+* create admin user: (admin/ab798979)
+
+`python manage.py createsuperuser`
