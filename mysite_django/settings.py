@@ -53,6 +53,7 @@ MIDDLEWARE = [
 # config root url
 ROOT_URLCONF = 'mysite_django.urls'
 
+# describe how django will load and render templates
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
