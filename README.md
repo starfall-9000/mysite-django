@@ -41,3 +41,10 @@
 * test:
 
 `python manage.py test polls`
+
+* template render test enviroment:
+
+```
+>>> from django.test.utils import setup_test_environment
+>>> setup_test_environment()
+```
