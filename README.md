@@ -34,6 +34,10 @@
 
 `python manage.py shell`
 
-* create admin user: (admin/ab798979)
+* create admin user: (localhost:8000/admin---admin/ab798979)
 
 `python manage.py createsuperuser`
+
+* test:
+
+`python manage.py test polls`
