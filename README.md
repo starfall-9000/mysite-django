@@ -2,11 +2,19 @@
 
 * turorial for django project
 
-* https://docs.djangoproject.com/en/2.0/intro/tutorial01/
+* https://docs.djangoproject.com/en/1.11/intro/tutorial01/
 
 * python 2.7
 
 * django 1.11.12
+
+### learning
+
+* create a module, router with urls, create templates, create module and database
+
+* use admin site localhost:8000/admin
+
+* create python package https://docs.djangoproject.com/en/1.11/intro/reusable-apps/
 
 ### list command
 
@@ -48,3 +56,7 @@
 >>> from django.test.utils import setup_test_environment
 >>> setup_test_environment()
 ```
+
+* build packages:
+
+`python setup.py sdist`
