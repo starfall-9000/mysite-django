@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+migrations/0001_initial.py
+migrations/__init__.py
+polls.egg-info/PKG-INFO
+polls.egg-info/SOURCES.txt
+polls.egg-info/dependency_links.txt
+polls.egg-info/top_level.txt
